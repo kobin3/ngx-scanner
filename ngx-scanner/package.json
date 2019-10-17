@@ -1,0 +1,51 @@
+{
+  "_from": "@zxing/ngx-scanner@^1.3.0",
+  "_id": "@zxing/ngx-scanner@1.7.2",
+  "_inBundle": false,
+  "_integrity": "sha512-EtAr0NyoEFhDPM+94D5G3byyV35Di6UMTr+jDBV3Oujrhn+u2m5x5x8duDwEfDBp9MtQ8HQF+UXEBp/lKZWbhA==",
+  "_location": "/@zxing/ngx-scanner",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@zxing/ngx-scanner@^1.3.0",
+    "name": "@zxing/ngx-scanner",
+    "escapedName": "@zxing%2fngx-scanner",
+    "scope": "@zxing",
+    "rawSpec": "^1.3.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.3.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@zxing/ngx-scanner/-/ngx-scanner-1.7.2.tgz",
+  "_shasum": "a41d3818e7d910cab39a5212505d582ae6607a36",
+  "_spec": "@zxing/ngx-scanner@^1.3.0",
+  "_where": "C:\\Users\\tassanai\\Documents\\bbl\\microsite\\bbl-kmutt-microsite",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@zxing/library": "^0.14.0",
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "High-performance Angular 7 barcode scanner component based on ZXing.",
+  "es2015": "fesm2015/zxing-ngx-scanner.js",
+  "esm2015": "esm2015/zxing-ngx-scanner.js",
+  "esm5": "esm5/zxing-ngx-scanner.js",
+  "fesm2015": "fesm2015/zxing-ngx-scanner.js",
+  "fesm5": "fesm5/zxing-ngx-scanner.js",
+  "main": "bundles/zxing-ngx-scanner.umd.js",
+  "metadata": "zxing-ngx-scanner.metadata.json",
+  "module": "fesm5/zxing-ngx-scanner.js",
+  "name": "@zxing/ngx-scanner",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "rxjs": "^6.5.2"
+  },
+  "private": false,
+  "sideEffects": false,
+  "typings": "zxing-ngx-scanner.d.ts",
+  "version": "1.7.2"
+}
